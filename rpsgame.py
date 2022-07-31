@@ -1,4 +1,4 @@
-print ("            WELCOME TO THE GAME!            \n")
+print ("*******WELCOME TO THE GAME!*******\n")
 import random
 
 #Rock Paper Scissors
